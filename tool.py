@@ -10,4 +10,6 @@ def get_weather(city):
         response = requests.get(url)
         return response.json()
 
-       
+@function_tool
+def add_numbers(a, b):
+    return a + b
