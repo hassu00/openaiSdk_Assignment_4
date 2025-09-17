@@ -16,7 +16,7 @@
  [facebook](https://www.markdownguide.org)
 
  ### Image
- ![screenshot](screenshot/new%202.png)
+ ![<img src ="screenshot/new.png">](https://www.markdownguide.org)
  ___
  [^1]: This is the footnote.
  ~~Strikethrough~~
@@ -25,5 +25,7 @@
 : This is the task list.
 - [x] Write the press release
 - [ ] Update the website
-- [ ] Contact the media:joy:
+- [ ] Contact the media
+:joy:
+
 ==this is highlighted==
